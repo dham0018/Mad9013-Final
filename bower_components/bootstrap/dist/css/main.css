@@ -1,0 +1,21 @@
+body{
+   font-family: 'Open Sans', sans-serif;
+    background-color: aliceblue;
+}
+.bg-faded {
+    background-color: cadetblue;
+}
+.mycontain{
+  padding-left:26%;padding-right:26%;
+}
+.location{
+  background: url(../../img/location.jpg) center center no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+.h2_size{
+   font-size: 31px;
+}
+.navigation{
+   font-family: 'Noto Serif', serif;
+}

@@ -3,19 +3,26 @@ body{
     background-color: aliceblue;
 }
 .bg-faded {
-    background-color: cadetblue;
+    background-color: #5F9EA0;
 }
 .mycontain{
   padding-left:26%;padding-right:26%;
 }
-.location{
-  background: url(../../img/location.jpg) center center no-repeat;
-  background-size: cover;
-  background-position: top;
+.myrow{
+     background-color:#5F9E86; 
 }
 .h2_size{
    font-size: 31px;
 }
 .navigation{
    font-family: 'Noto Serif', serif;
+}
+h4{
+   margin-top: 10%;
+}
+.card{
+  background-color: #5F9E86;
+}
+.btn-info{
+  background-color: #5F9EB4;
 }

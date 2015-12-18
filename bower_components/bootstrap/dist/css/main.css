@@ -1,15 +1,15 @@
 body{
    font-family: 'Open Sans', sans-serif;
-    background-color: aliceblue;
+    background:#DDE2C0 url("/bower_components/bootstrap/img/Project/bodybg2.gif") repeat 0 0;   
 }
 .bg-faded {
-    background-color: #5F9EA0;
+    background-color: #aeba69;
 }
 .mycontain{
   padding-left:26%;padding-right:26%;
 }
 .myrow{
-     background-color:#5F9E86; 
+  background-color: #C1CA8C;
 }
 .h2_size{
    font-size: 31px;
@@ -21,8 +21,15 @@ h4{
    margin-top: 10%;
 }
 .card{
-  background-color: #5F9E86;
+  background-color: #C1CA8C;
 }
 .btn-info{
-  background-color: #5F9EB4;
+  background-color: #cad29d;
+border-color: #a5b258;
+}
+.btn-info:hover{
+   background-color: #a5b258;
+}
+.input-group-addon{
+  color: #a5b258;
 }

@@ -1,6 +1,6 @@
 body{
    font-family: 'Open Sans', sans-serif;
-    background:#DDE2C0 url("/bower_components/bootstrap/img/Project/bodybg2.gif") repeat 0 0;   
+    background:#DDE2C0 url("../../img/bodybg2.gif") repeat 0 0; 
 }
 .bg-faded {
     background-color: #aeba69;
